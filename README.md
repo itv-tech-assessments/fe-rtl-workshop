@@ -4,9 +4,7 @@ This workshop will cover how to test React components using React Testing Librar
 
 ### Before we begin
 
-Within your breakout rooms, choose a member to be the driver and the rest should be participating navigators. 
-
-Make sure the driver has all the following pre-requisites:
+Make sure you've gone through the following pre-requisites:
  
 - Node.js v14.18
 - Clone the following repo [fe-rtl-workshop-app](https://github.com/ITV/fe-rtl-workshop-app)
